@@ -72,6 +72,10 @@ Small CLI that runs an Azure OpenAI deployment against your unpushed git diff an
 
 Portfolio skeleton of a three-stage Gemini pipeline that turns a folder of mixed-format design artifacts into an indexed corpus, a security and operational gap analysis, and an internet-enabled chat advisor for review-board rehearsal. The stage orchestration and production persona prompts are intentionally withheld; the architecture, document-ingestion layer, and SDK wrapper are open for review.
 
+### [mailsweep-portfolio](https://github.com/k3rt4s/mailsweep-portfolio)
+
+Architecture case study for MailSweep, a production AI-assisted email triage platform that ships in both a local Windows and an Azure-hosted SaaS variant from a single codebase. Writeup only; the production source is proprietary. Walks through the multi-provider abstraction, the local-vs-cloud split, the keyword-fallback design for AI unavailability, and the operational decisions that turned out to matter.
+
 ## Contact
 
 - LinkedIn: <https://www.linkedin.com/in/jonathanbowker/>
