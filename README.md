@@ -60,6 +60,14 @@ Personal lab notes and security research covering scanning, controlled testing e
 
 LLM-friendly tooling and structured workflows for analyzing medical bills, identifying duplicates and inconsistencies, and managing long-running healthcare billing disputes.
 
+### [security-program-templates](https://github.com/k3rt4s/security-program-templates)
+
+Working templates for the documents a security program needs to actually run: opinionated risk register, quarterly board update, blameless incident postmortem, and control-framework mapping pattern. Markdown only.
+
+### [ai-architect-copilot-portfolio](https://github.com/k3rt4s/ai-architect-copilot-portfolio)
+
+Portfolio skeleton of a three-stage Gemini pipeline that turns a folder of mixed-format design artifacts into an indexed corpus, a security and operational gap analysis, and an internet-enabled chat advisor for review-board rehearsal. The stage orchestration and production persona prompts are intentionally withheld; the architecture, document-ingestion layer, and SDK wrapper are open for review.
+
 ## Contact
 
 - LinkedIn: <https://www.linkedin.com/in/jonathanbowker/>
