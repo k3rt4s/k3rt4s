@@ -84,6 +84,10 @@ Architecture case study for MailSweep, a production AI-assisted email triage pla
 
 The rest of the platform work, including Fortivra, Compliance Compass, FileIQ, and Lumenwatch, stays in private repositories. Overviews are at <https://www.tectori.com/>.
 
+## Board
+
+Work board: `C:\Code_data\k3rt4s\WORK_BOARD.md`.
+
 ## Contact
 
 - Email: <jon.bowker@tectori.com>
